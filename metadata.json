@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Arpi_V5_007",
+  "description": "Bearro\u0027s Arpi_V5_007",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
